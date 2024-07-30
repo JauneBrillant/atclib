@@ -1,5 +1,14 @@
+# root/
 .ignore
-setup.py
-atclib.egg-info
+.setup.py
+.atclib.egg-info
+
+# atclib/
+atclib/__pycache__/
+atclib/__init__.py/
+
+# tests/
+tests/__pycache__
+
 
 
